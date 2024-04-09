@@ -56,16 +56,16 @@ img{
 }
 h3{
     margin-inline: auto;
-    font-size: 1.3rem;
+    font-size: 1.35rem;
     font-weight: 700;
-    width: 240px;
+    width: 250px;
     line-height: 1.4;
     margin-bottom: 16px;
     color: var(--cc-Darkblue);
 }
 
 p{
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     width: 250px;
     margin-inline: auto;
     color: var(--cc-Grayishblue);
